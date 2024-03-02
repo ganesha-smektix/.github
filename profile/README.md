@@ -2,7 +2,8 @@
 
 # Ganesha SMEKTIX
 
-Selamat datang di organisasi kami!
+Selamat datang di organisasi kami! <br>
+Ini adalah organisasi khusus jurusan RPL/PPLG
 
 ### Kenapa kami memilih nama Ganesha?
 
